@@ -11,3 +11,8 @@ Next-Gen Blockchain Battleground: Analyzing User and Capital Activity in the Top
 [English Edition](https://dune.com/titus181/next-gen-blockchain-battleground-analyzing-user-and-capital-activity-in-the-top-5-public-chains)
 
 [Chinese Edition](https://dune.com/titus181/ge-gong-lian-bi-jiao)
+
+
+E-commerce Data Analysis
+
+[link](https://github.com/Titus181/e-commerce)
