@@ -35,7 +35,12 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      </td>
+      <h3>4. Concurrent Picture Downloader</h3>
+      <p>A web scraping tool built with Python to download all images from a given URL. It leverages the multiprocessing module to execute downloads in parallel, significantly improving efficiency.</p>
+      <p>
+        <a href="https://github.com/Titus181/picture_downloader"><strong>➡️ View on GitHub</strong></a>
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -78,6 +83,11 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      </td>
+      <h3>4. 多進程並行圖片下載器 (Concurrent Picture Downloader)</h3>
+      <p>一個使用 Python 打造的網路爬蟲工具，能從指定的網址中下載所有圖片。專案利用 multiprocessing 模組實現並行下載，大幅提升執行效率。</p>
+      <p>
+        <a href="https://github.com/Titus181/picture_downloader"><strong>➡️ 查看 GitHub 專案</strong></a>
+      </p>
+    </td>
   </tr>
 </table>
